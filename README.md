@@ -48,9 +48,7 @@ To explore and contribute to this project, follow the steps below:
 
 2. Install DBeaver from [dbeaver.io](https://dbeaver.io/download/).
 
-3. Open DBeaver and connect to the relevant databases (CTBDev and CTBQA).
-
-4. Explore the project code and documentation in the repository to understand the enhancements made.
+3. Explore the project code and documentation in the repository to understand the enhancements made.
 
 ## LINK FOR THE WEBSITE: 
 [Hyundai](https://clicktobuy.hyundai.co.in/#/)
